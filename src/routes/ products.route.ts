@@ -1,4 +1,3 @@
-import Fastify from 'fastify'
 import type { FastifyInstance } from 'fastify'
 import { Product, products_array } from '../types/product'
 
